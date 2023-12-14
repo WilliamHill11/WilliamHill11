@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY)
+[![MasterHead](https://rishavchanda.io](https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY)
 <h1 align="center">Hi 👋, I'm William Hill</h1>
 <h3 align="center">A passionate FrontEnd Developer from London, Ontario</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
